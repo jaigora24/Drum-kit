@@ -1,0 +1,90 @@
+.one{
+    background-color: violet;
+    cursor: pointer;
+    padding: 45px 50px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border: 6px solid black;
+}
+.two{
+    background-color: rgb(235, 235, 64);
+    cursor: pointer;
+    padding: 45px 50px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border: 6px solid black;
+}
+.three{
+    background-color: rgb(70, 70, 199);
+    cursor: pointer;
+    padding: 45px 50px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border: 6px solid black;
+}
+.four{
+    background-color: rgb(86, 195, 43);
+    cursor: pointer;
+    padding: 45px 50px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border: 6px solid black;
+}
+.five{
+    background-color: red;
+    cursor: pointer;
+    padding: 45px 50px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border: 6px solid black;
+}
+.six{
+    background-color: crimson;
+    cursor: pointer;
+    padding: 45px 50px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border: 6px solid black;
+}
+.seven{
+    background-color: rgb(4, 255, 255) ;
+    cursor: pointer;
+    padding: 45px 50px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border: 6px solid black;
+}
+.eight{
+    background-color: rgb(251, 255, 0) ;
+    cursor: pointer;
+    padding: 45px 50px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border: 6px solid black;
+}
+.nine{
+    background-color: cornflowerblue;
+    cursor: pointer;
+    padding: 45px 50px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border: 6px solid black;
+}
+body{
+    padding: 270px 55px;
+    background : rgb(194, 189, 223)
+}
+h4{
+    color: black;
+    text-align: center;
+    padding: 200px;
+}
